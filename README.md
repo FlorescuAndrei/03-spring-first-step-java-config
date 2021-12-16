@@ -8,7 +8,7 @@ Bean scopes singleton, prototype, etc . Bean lifecycle methods @PostCosntruct, @
 
 Lib: spring framework 5.3.9, javax.annotation-api-1.3.2.jar  
 
-Configuration: @Configuration java class;
+Config: @Configuration java class;
 
 
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git) 
